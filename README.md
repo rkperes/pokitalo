@@ -1,6 +1,7 @@
 # pokitalo
 
-## Pre-requisites
+Under development.
 
-1. Install [sqlitev3](https://www.sqlite.org/download.html)
-2. Install [golang-migrate](https://github.com/golang-migrate/migrate)
+This uses:
+
+- [sqlitev3](https://www.sqlite.org/download.html)
